@@ -24,9 +24,9 @@
 20.7|when I get you everywhere
 23.1|All this time I'm thinking
 24.9|we could never be a pair
-27.3|Oh, no|~
+27.3|Oh, no *oh
 28.1|I don't need you
-29.1|but I miss you
+29.1|but I miss you *extranio
 30.2|come here|~
 30.7|*corazon
 31.2|And, oh
@@ -40,5 +40,4 @@
 44.1|Oh, no|~
 44.9|I don't need you
 45.9|but I miss you
-47.0|come here|~
-48.5|*extranio
+47.0|come here *corazon48.5|*extranio
