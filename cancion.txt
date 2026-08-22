@@ -17,17 +17,17 @@
 #   *ojos      los ojos de Robi, bien grandes
 #   *estrella  una estrellita
 0.0|*ojos
-14.4|And, oh
+14.4|And, oh|~
 15.5|it's hard to see you
 16.5|but I wish you were right here
 18.9|Oh, it's hard to leave you
 20.7|when I get you everywhere
 23.1|All this time I'm thinking
 24.9|we could never be a pair
-27.3|Oh, no
+27.3|Oh, no|~
 28.1|I don't need you
 29.1|but I miss you
-30.2|come here
+30.2|come here|~
 30.7|*corazon
 31.2|And, oh
 32.3|it's hard to see you
@@ -37,7 +37,8 @@
 39.9|All this time
 41.2|I'm thinking I'm strong
 42.0|enough to sink it
-44.1|Oh, no
+44.1|Oh, no|~
 44.9|I don't need you
 45.9|but I miss you
-47.0|come here
+47.0|come here|~
+48.5|*extranio
