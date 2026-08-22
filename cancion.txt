@@ -1,0 +1,43 @@
+#pulso 0.525
+#desfase 32
+0.0|*ojos
+# Asi se arma el archivo de una cancion.
+# Todo lo que empieza con almohadilla es un comentario: Robi lo saltea.
+
+# El pulso del tema, en segundos. Robi late con esto.
+# Para Love Me Not (114 golpes por minuto) es 0.525
+
+# Despues va una linea por frase:  segundo | lo que se muestra
+# (los segundos salen de la herramienta de las letras)
+
+# Los dibujitos se piden con un asterisco. Hay cuatro:
+#   *corazon   un corazon que late
+#   *feliz     carita contenta
+#   *triste    carita triste con lagrimita
+#   *ojos      los ojos de Robi, bien grandes
+#   *estrella  una estrellita
+0.0|*ojos
+14.4|And, oh
+15.5|it's hard to see you
+16.5|but I wish you were right here
+18.9|Oh, it's hard to leave you
+20.7|when I get you everywhere
+23.1|All this time I'm thinking
+24.9|we could never be a pair
+27.3|Oh, no
+28.1|I don't need you
+29.1|but I miss you
+30.2|come here
+30.7|*corazon
+31.2|And, oh
+32.3|it's hard to see you
+33.3|but I wish you were right here
+35.7|Oh, it's hard to leave you
+37.5|when I get you everywhere
+39.9|All this time
+41.2|I'm thinking I'm strong
+42.0|enough to sink it
+44.1|Oh, no
+44.9|I don't need you
+45.9|but I miss you
+47.0|come here
